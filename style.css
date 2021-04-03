@@ -1,0 +1,25 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#container
+{
+    width: 1000px;
+    height: 550px;
+    background-image: linear-gradient(rgba(0,0,0,0,3), rgba(0,0,0,0,3)), url(fundo.jpg);
+    margin: 25px auto;
+}
+
+#calculator
+{
+    width: 320px;
+    height: 520px;
+    background-color: #eaedef;
+    margin: 20px;
+    top: 20px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),
+    0 6px 20px 0 rgba(0,0,0,0.2);
+}
